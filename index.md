@@ -12,10 +12,6 @@ summary: These brief instructions will help you get started quickly with the the
 
 ## Build the Theme
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SKXkC4SqtRk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Follow these instructions to build the theme.
 
 ### 1. Download the theme
